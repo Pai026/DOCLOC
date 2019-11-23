@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177269612047",
+    "firebase_url": "https://docloc-8d12c.firebaseio.com",
+    "project_id": "docloc-8d12c",
+    "storage_bucket": "docloc-8d12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177269612047:android:a0dc36c2e002f5dea0cd7a",
+        "android_client_info": {
+          "package_name": "com.example.docloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177269612047-fjk8j5151gnvbhf12ekpfmhm8u660pj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docloc",
+            "certificate_hash": "956a64eba2406d89d35af4d721200be6832daa63"
+          }
+        },
+        {
+          "client_id": "177269612047-vaemlhg8hsqm3enav37iburaf8d0pusg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxe9Y89eLxxTUKbdTXpXJ_Ocd9El_JMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177269612047-vaemlhg8hsqm3enav37iburaf8d0pusg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
